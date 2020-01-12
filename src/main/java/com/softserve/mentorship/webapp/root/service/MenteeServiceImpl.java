@@ -1,7 +1,7 @@
-package com.softserve.mentorship.webapp.service;
+package com.softserve.mentorship.webapp.root.service;
 
-import com.softserve.mentorship.webapp.dao.MenteeDao;
-import com.softserve.mentorship.webapp.entity.Mentee;
+import com.softserve.mentorship.webapp.root.dao.MenteeDao;
+import com.softserve.mentorship.webapp.root.entity.Mentee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

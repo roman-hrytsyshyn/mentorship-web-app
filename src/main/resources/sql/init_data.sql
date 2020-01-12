@@ -1,0 +1,1 @@
+INSERT INTO MENTEE VALUES (1, 'Ramesh');

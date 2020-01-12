@@ -1,6 +1,6 @@
-package com.softserve.mentorship.webapp.dao;
+package com.softserve.mentorship.webapp.root.dao;
 
-import com.softserve.mentorship.webapp.entity.Mentee;
+import com.softserve.mentorship.webapp.root.entity.Mentee;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;

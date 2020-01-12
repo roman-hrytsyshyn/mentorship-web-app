@@ -1,9 +1,9 @@
 package com.softserve.mentorship.webapp;
 
-import com.softserve.mentorship.webapp.config.DBConfig;
-import com.softserve.mentorship.webapp.dao.MenteeDao;
-import com.softserve.mentorship.webapp.entity.Mentee;
-import com.softserve.mentorship.webapp.config.AppConfig;
+import com.softserve.mentorship.webapp.root.config.DBConfig;
+import com.softserve.mentorship.webapp.root.dao.MenteeDao;
+import com.softserve.mentorship.webapp.root.entity.Mentee;
+import com.softserve.mentorship.webapp.root.config.AppConfig;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

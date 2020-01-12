@@ -1,4 +1,4 @@
-package com.softserve.mentorship.webapp.entity;
+package com.softserve.mentorship.webapp.root.entity;
 
 import lombok.Data;
 
