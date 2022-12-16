@@ -12,7 +12,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <spring.version>4.3.4.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <hibernate.version>5.2.5.Final</hibernate.version>
         <jackson.library.version>2.7.5</jackson.library.version>
     </properties>
